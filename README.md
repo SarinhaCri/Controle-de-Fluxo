@@ -23,4 +23,10 @@ O projeto utiliza a estrutura de controle `if` para validar a relação entre os
 - Scanner (para entrada de dados)  
 - Try-catch (para tratamento de exceções)
 
+🔗 www.linkedin.com/in/sara-cristina-viana-rocha-432707252
 
+📧 sara.crys2002@gmail.com
+
+# 📌 Feito por Sara Cristina 💙 
+
+Caso queira modificar algo, me avise! 😊
