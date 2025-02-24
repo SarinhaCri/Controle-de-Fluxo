@@ -12,6 +12,11 @@ O programa solicita dois números inteiros ao usuário via terminal. A partir de
 - Se for, lança uma exceção customizada (ParametrosInvalidosException).
 - Se não for, imprime a contagem incremental entre os números.
 
+**Estruturas de Controle**
+
+O projeto utiliza a estrutura de controle `if` para validar a relação entre os dois parâmetros. Se o primeiro parâmetro for maior que o segundo, a condição `if` é atendida e o programa lança uma exceção personalizada usando o comando `throw`, interrompendo a execução normal e notificando o usuário sobre a condição inválida.
+
+
 **Tecnologias Utilizadas**
 
 - Java  
