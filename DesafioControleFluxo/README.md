@@ -7,5 +7,5 @@ Descrição
 O programa solicita dois números inteiros ao usuário via terminal. A partir desses números, ele:
 
 - Verifica se o primeiro número é maior que o segundo.
--Se for, lança uma exceção customizada (ParametrosInvalidosException).
--Se não for, imprime a contagem incremental entre os números.
+- Se for, lança uma exceção customizada (ParametrosInvalidosException).
+- Se não for, imprime a contagem incremental entre os números.
